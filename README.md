@@ -35,4 +35,4 @@ ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
 
 ### Obrigado por visitar!!
-### Estes são meus 6 melhores repositórios 👇 
+ 
