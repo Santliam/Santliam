@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou Nickolas 👨‍💻
+# Olá 👋 Eu sou Santliam 👨‍💻
 
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
@@ -24,10 +24,10 @@ ___
 ## Algumas estatísticas minhas:
 
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santliam&show_icons=true&theme=radical" alt="Github status" />
 </a>
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santliam&layout=compact&theme=radical" />
 </a>
 
 
