@@ -3,13 +3,13 @@
 <h4> Utilizarei desse perfil como ferramenta para desenvolver minhas atividades de estudo</h4>
 <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
 
-- 🔭 Atualmente trabalho no terceiro setor **na ONG Gestos**
+* 🔭 Atualmente trabalho no terceiro setor **na ONG Gestos**
 
-- 🌱 Estou aprendendo sobre: **Coding e Database**
+* 🌱 Estou aprendendo sobre: **Coding e Database**
   
-- 📫 Fale comigo pelo email: **sant.g.liam@gmail.com**
+* 📫 Fale comigo pelo email: **sant.g.liam@gmail.com**
   
- ![Legenda](https://img.freepik.com/vetores-premium/body-positivo-conceito-moderno-plus-size-homem-ficar-com-a-mao-no-bolso-personagem-masculino-amor-e-aceitar-seu-corpo_1016-13678.jpg)
+ ![Legenda](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
