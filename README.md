@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, Sou o Gabriel Lima</h1>
-<h3 align="center">Sou um estudante de ADS</h3>
-<h4 align="center"> Utilizarei desse perfil como ferramenta para desenvolver minhas atividades de estudo</h4>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam" /> </p>
+<h1>Olá 👋, Sou o Gabriel Lima</h1>
+<h3>Sou um estudante de ADS</h3>
+<h4> Utilizarei desse perfil como ferramenta para desenvolver minhas atividades de estudo</h4>
+<img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
 
 - 🔭 Atualmente trabalho no terceiro setor **na ONG Gestos**
 
