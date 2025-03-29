@@ -1,14 +1,20 @@
-<h1>Olá 👋, Sou o Gabriel Lima</h1>
-<h3>Sou um estudante de ADS</h3>
-<h4> Utilizarei desse perfil como ferramenta para desenvolver minhas atividades de estudo</h4>
+# 👋 Hey there! I'm Gabriel  
+
+I'm a tech enthusiast studying **Analysis and Systems Development** at **Senac College in Recife, Brazil**.  
+
+🚀 Passionate about technology, I'm always eager to learn new things in the world of programming and innovation.  
+
+Let’s connect and share knowledge! 😃  
 
 <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
 
-* 🔭 Atualmente trabalho no terceiro setor **na ONG Gestos**
+* 🔭 Currently working in the **third sector** at the **Gestos NGO**  
 
-* 🌱 Estou aprendendo sobre: **Coding e Database**
-  
-* 📫 Fale comigo pelo email: **sant.g.liam@gmail.com**
+* 🌱 Currently learning about: **Coding and Databases**  
+
+* 📫 Reach me at: **sant.g.liam@gmail.com**  
+
+
   
  ![Legenda](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)
 
