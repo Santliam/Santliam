@@ -14,9 +14,7 @@ Let’s connect and share knowledge! 😃
 
 * 📫 Reach me at: **sant.g.liam@gmail.com**  
 
-
-  
- ![Legenda](https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif)
+ <img src="octocat-1743648353312.png" width="500" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
