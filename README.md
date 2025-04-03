@@ -1,12 +1,19 @@
-# 👋 Hey there! I'm Gabriel  
+<h1>
+<img align="center" alt="Logo Gabriel Lima" width="30px" src="g.png"></a>
+ Hey there, I'm Gabriel!
+  
+
+ <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/vetores-gratis/futuro-da-ilustracao-do-conceito-de-trabalho_614304-14.jpg?t=st=1743686963~exp=1743690563~hmac=4785303e5c185de46891b30474001a84570e411964c4d4545233443b30712db1&w=740">
+</h1>
+
+<img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
 
 I'm a tech enthusiast studying **Analysis and Systems Development** at **Senac College in Recife, Brazil**.  
 
 🚀 Passionate about technology, I'm always eager to learn new things in the world of programming and innovation.  
+My first "Hello World" was in 2022 when I had contact with HTML, CSS and a little bit of Python
 
 Let’s connect and share knowledge! 😃  
-
-<img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
 
 * 🔭 Currently working in the **third sector** at the **Gestos NGO**  
 
