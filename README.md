@@ -1,5 +1,5 @@
 <h1>
-<img align="center" alt="Logo Gabriel Lima" width="30px" src="g.png"></a>
+<img align="center" alt="Logo Gabriel Lima" width="60px" src="logo_gabriel.jpeg"></a>
  Hey there, I'm Gabriel!
   
 
@@ -22,20 +22,17 @@ Let’s connect and share knowledge! 😃
 * 📫 Reach me at: **sant.g.liam@gmail.com**
 
 
-# Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Skills
+![Python](https://img.shields.io/badge/python-87CEEB?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-87CEEB?style=for-the-badge&logo=mysql&logoColor=black)
 
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![Vscode](https://img.shields.io/badge/Vscode-87CEEB?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-87CEEB?style=for-the-badge&logo=pycharm&logoColor=black)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Git](https://img.shields.io/badge/Git-87CEEB?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=black)](https://docs.github.com/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00raoni&theme=transparent&bg_color=87CEEB&border_color=000030&show_icons=true&icon_color=000030&title_color=000030&text_color=000000)
