@@ -12,10 +12,10 @@ Let’s connect and share knowledge! 😃
 
 * 🌱 Currently learning about: **Coding and Databases**  
 
-* 📫 Reach me at: **sant.g.liam@gmail.com**  
-
+* 📫 Reach me at: **sant.g.liam@gmail.com**
+  
  <img src="octocat-1743648353312.png" width="500" />
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
