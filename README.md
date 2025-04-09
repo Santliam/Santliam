@@ -3,7 +3,7 @@
  Hey there, I'm Gabriel!
   
 
- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/vetores-gratis/futuro-da-ilustracao-do-conceito-de-trabalho_614304-14.jpg?t=st=1743686963~exp=1743690563~hmac=4785303e5c185de46891b30474001a84570e411964c4d4545233443b30712db1&w=740">
+ <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="santliam.png">
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
