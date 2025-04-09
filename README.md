@@ -1,9 +1,6 @@
 <h1>
-<img align="center" alt="Logo Gabriel Lima" width="60px" src="logo_gabriel.jpeg"></a>
  Hey there, I'm Gabriel!
-  
-
- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="santliam.png">
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="santliam.png">
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
