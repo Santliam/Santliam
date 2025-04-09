@@ -9,7 +9,7 @@ I'm a tech enthusiast studying **Analysis and Systems Development** at **Senac C
 My first "Hello World" was in 2022 when I had contact with HTML, CSS and a little bit of Python.
 Let’s connect and share knowledge! 
 
-* 🏳‍🌈 Working in the **third sector** at the **Gestos NGO**  
+* 🏳‍🌈 Working in the **third sector** at the [**Gestos NGO**](https://gestos.org.br/)  
 
 * 🌱 Learning about: **Coding and Databases**  
 
