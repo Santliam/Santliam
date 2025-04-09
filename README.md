@@ -1,15 +1,15 @@
 <h1>
  Hey there, I'm Gabriel!     <img src="https://komarev.com/ghpvc/?username=santliam&label=Profile%20views&color=0e75b6&style=flat" alt="santliam"/>
-  <img align="right" height="380" src="ChatGPT-santliam2.png">
+  <img align="right" height="380" src="ChatGPT-santliam1.png">
 </h1>
 
 I'm a tech enthusiast studying **Analysis and Systems Development** at **Senac College in Recife, Brazil**.  
 
 🚀 Passionate about technology, I'm always eager to learn new things in the world of programming and innovation.  
 My first "Hello World" was in 2022 when I had contact with HTML, CSS and a little bit of Python.
-Let’s connect and share knowledge! 😃  
+Let’s connect and share knowledge! 
 
-* 🔭 Working in the **third sector** at the **Gestos NGO**  
+* 🏳‍🌈 Working in the **third sector** at the **Gestos NGO**  
 
 * 🌱 Learning about: **Coding and Databases**  
 
